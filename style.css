@@ -1,0 +1,13 @@
+/* css visibility */
+.p1{
+    visibility: visible;
+}
+.p2{
+    visibility: hidden;
+}
+tbody.collapse{
+    visibility: collapse;
+}
+.p2{
+    visibility: initial;
+}
